@@ -1,0 +1,471 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mourning muse of Alexis a pastoral : lamenting the death of our late gracious Queen Mary of ever blessed memory / by Mr. Congreve.</title>
+            <author>Congreve, William, 1670-1729.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34313</idno>
+            <idno type="STC">Wing C5861</idno>
+            <idno type="STC">ESTC R21080</idno>
+            <idno type="EEBO-CITATION">12680938</idno>
+            <idno type="OCLC">ocm 12680938</idno>
+            <idno type="VID">65657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34313)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65657)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 978:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mourning muse of Alexis a pastoral : lamenting the death of our late gracious Queen Mary of ever blessed memory / by Mr. Congreve.</title>
+                  <author>Congreve, William, 1670-1729.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The third edition.</edition>
+               </editionStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jacob Tonson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+                  <note>In verse.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65657:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:65657:1"/>
+            <!-- PDF PAGE 22 -->
+            <p>THE Mourning Muſe OF ALEXIS. A PASTORAL. Lamenting the Death of our late Gracious QUEEN MARY Of ever Bleſſed Memory.</p>
+            <p>By Mr. <hi>CONGREVE.</hi>
+            </p>
+            <q>
+               <p>Infandum Regina Jubes renovare dolorem!</p>
+               <bibl>
+                  <hi>Virg.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>The Third Edition.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Jacob Tonſon,</hi> at the <hi>Judge</hi>'s <hi>Head,</hi> near the <hi>Inner-Temple-Gate</hi> in <hi>Fleetſtreet.</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:65657:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="1" facs="tcp:65657:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>THE Mourning Muſe OF ALEXIS. A PASTORAL.</head>
+            <p>
+               <hi>ALEXIS</hi> and <hi>MENALCAS.</hi>
+            </p>
+            <sp>
+               <speaker>Men.</speaker>
+               <lg>
+                  <l>BEhold, <hi>Alexis,</hi> ſee this Gloomy Shade,</l>
+                  <l>Which ſeems alone for Sorrow's Shelter made;</l>
+                  <l>Where, the glad Beams of Light can never play,</l>
+                  <l>But Night ſucceeding Night, excludes the Day;</l>
+                  <l>Where, never Birds with Harmony repair,</l>
+                  <l>And lightſom Notes, to cheer the Dusky Air,</l>
+                  <l>To welcom Day, or bid the Sun farewel,</l>
+                  <l>By Morning Lark, or Evening <hi>Philomel.</hi>
+                  </l>
+               </lg>
+               <pb n="2" facs="tcp:65657:3"/>
+               <!-- PDF PAGE 24 -->
+               <lg>
+                  <l>No Violet here, nor Daiſie e're was ſeen,</l>
+                  <l>No ſweetly budding Flower, nor ſpringing Green:</l>
+                  <l>For fragrant Myrtle, and the bluſhing Roſe,</l>
+                  <l>Here, baleful Yew with deadly Cypreſs grows.</l>
+                  <l>Here then, extended on this wither'd Moſs,</l>
+                  <l>We'll lie, and thou ſhalt ſing of <hi>ALBION</hi>'s Loſs;</l>
+                  <l>Of <hi>ALBION</hi>'s Loſs, and of <hi>PASTORA</hi>'s Death,</l>
+                  <l>Begin thy mournful Song, and raiſe thy tuneful Breath.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alex.</speaker>
+               <lg>
+                  <l>Ah Woe too great! Ah Theme, which far exceeds</l>
+                  <l>The lowly Lays of humble Shepherds Reeds!</l>
+               </lg>
+               <lg>
+                  <l>O could I ſing in Verſe of equal Strain,</l>
+                  <l>With the <hi>Sicilian</hi> Bard, or <hi>Mantuan</hi> Swain;</l>
+                  <l>In melting Words, and moving Numbers chuſe,</l>
+                  <l>Sweet as the Britiſh <hi>Colins</hi> mourning Muſe;</l>
+                  <l>Could I, like him, in tuneful Grief excel,</l>
+                  <l>And mourn like <hi>Stella</hi> for her <hi>Aſtrophel;</hi>
+                  </l>
+                  <l>Then might I raiſe my Voice, (ſecure of Skill,)</l>
+                  <l>And with melodious Woe, the Valleys fill;</l>
+                  <l>The liſt'ning <hi>Echo</hi> on my Song ſhould wait,</l>
+                  <l>And hollow Rocks <hi>PASTORA</hi>'s Name repeat;</l>
+                  <l>Each whiſtling Wind, and murmuring Stream ſhould tell</l>
+                  <l>How Lov'd ſhe liv'd, and how Lamented fell.</l>
+               </lg>
+            </sp>
+            <pb n="3" facs="tcp:65657:3"/>
+            <!-- PDF PAGE 24 -->
+            <sp>
+               <speaker>Men.</speaker>
+               <lg>
+                  <l>Wert thou with ev'ry Bay and Lawrel crown'd,</l>
+                  <l>And high as <hi>Pan</hi> himſelf in Song renown'd,</l>
+                  <l>Yet wou'd not all thy Art avail to ſhow</l>
+                  <l>Verſe worthy of her Name, or of our Woe;</l>
+                  <l>But ſuch true Paſſion, in thy Face appears,</l>
+                  <l>In thy pale Lips, thick Sighs, and guſhing Tears,</l>
+                  <l>Such tender Sorrow in thy Heart I read,</l>
+                  <l>As ſhall ſupply thy Skill, if not exceed.</l>
+                  <l>Then leave this common Form of dumb Diſtreſs,</l>
+                  <l>Each vulgar Grief, can Sighs and Tears expreſs;</l>
+                  <l>In ſweet complaining Notes, thy Paſſion vent,</l>
+                  <l>And not in Sighs, but Words explaining Sighs, lament.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alex.</speaker>
+               <lg>
+                  <l>Wild be my Thoughts, <hi>Menalcas,</hi> wild my Words,</l>
+                  <l>Artleſs as Nature's Notes, in untaught Birds;</l>
+                  <l>Boundleſs my Verſe, and roving be my Strains,</l>
+                  <l>Various as Flow'rs on unfrequented Plains.</l>
+                  <l>And thou <hi>Thalia,</hi> Darling of my Breaſt,</l>
+                  <l>By whom inſpired, I ſung at <hi>Comus</hi> Feaſt;</l>
+                  <l>While in a Ring, the Jolly Rural Throng</l>
+                  <l>Have ſate and ſmil'd to hear my chearful Song:</l>
+                  <l>Begon, with all thy Mirth and ſprightly Lays,</l>
+                  <l>My Pipe, no longer now thy Pow'r obeys;</l>
+                  <l>Learn to lament, my Muſe, to weep, and mourn,</l>
+                  <l>Thy ſpringing Lawrels, all to Cypreſs turn;</l>
+                  <pb n="4" facs="tcp:65657:4"/>
+                  <!-- PDF PAGE 25 -->
+                  <l>Wound with thy diſmal Cries, the Tender Air,</l>
+                  <l>And beat thy Snowy Breaſt, and rend thy yellow Hair;</l>
+                  <l>Far hence, in utmoſt Wilds thy dwelling chuſe,</l>
+                  <l>Begon, <hi>Thalia,</hi> Sorrow is my Muſe.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>I mourn</hi> PASTORA <hi>dead, let</hi> ALBION <hi>mourn,</hi>
+                  </l>
+                  <l>
+                     <hi>And Sable Clouds her Chalkie Cliffs adorn.</hi>
+                  </l>
+                  <l>No more, theſe Woods ſhall with her Sight be bleſs'd,</l>
+                  <l>Nor with her Feet, theſe Flow'ry Plains be preſs'd;</l>
+                  <l>No more, the Winds ſhall with her Treſſes play,</l>
+                  <l>And from her Balmy Breath, ſteal Sweets away;</l>
+                  <l>No more, theſe Rivers chearfully ſhall paſs,</l>
+                  <l>Pleas'd to reflect the Beauties of her Face;</l>
+                  <l>While on their Banks, the wond'ring Flocks have ſtood,</l>
+                  <l>Greedy of Sight, and negligent of Food.</l>
+               </lg>
+               <lg>
+                  <l>No more, the Nymphs ſhall with ſoft Tales delight</l>
+                  <l>Her Ears, no more with Dances pleaſe her Sight;</l>
+                  <l>Nor ever more ſhall Swain make Song of Mirth,</l>
+                  <l>To bleſs the Joyous Day, that gave her Birth:</l>
+                  <l>Loſt is that Day, which had from her its Light,</l>
+                  <l>For ever loſt with her, in endleſs Night;</l>
+                  <l>In endleſs Night, and Arms of Death ſhe lies,</l>
+                  <l>Death, in Eternal Shades has ſhut <hi>PASTORA</hi>'s Eyes.</l>
+               </lg>
+               <pb n="5" facs="tcp:65657:4"/>
+               <!-- PDF PAGE 25 -->
+               <lg>
+                  <l>Lament ye Nymphs, and mourn ye wretched Swains,</l>
+                  <l>Stray all ye Flocks, and deſart be ye Plains,</l>
+                  <l>Sigh all ye winds, and weep ye Cryſtal Flouds,</l>
+                  <l>Fade all ye Flowers, and wither all ye Woods.</l>
+                  <l>
+                     <hi>I mourn</hi> PASTORA <hi>dead, let</hi> ALBION <hi>mourn,</hi>
+                  </l>
+                  <l>
+                     <hi>And Sable Clouds her Chalkie Cliffs adorn.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Within a Diſmal Grott, which Damps ſurround,</l>
+                  <l>All Cold ſhe lies upon th' unwholſom Ground;</l>
+                  <l>The Marble weeps, and with a ſilent Pace,</l>
+                  <l>Its trickling Tears diſtil upon her Face,</l>
+                  <l>Falſly ye weep, ye Rocks, and falſly mourn!</l>
+                  <l>For never, will you let the Nymph return!</l>
+                  <l>With a feign'd Grief the faithleſs Tomb relents,</l>
+                  <l>And like the <hi>Crocodile</hi> it's Prey laments.</l>
+               </lg>
+               <lg>
+                  <l>O ſhe was Heav'nly fair, in Face and Mind!</l>
+                  <l>Never in Nature were ſuch Beauties join'd:</l>
+                  <l>Without, all ſhining; and within all white;</l>
+                  <l>Pure to the Sence, and pleaſing to the Sight;</l>
+                  <l>Like ſome rare Flow'r, whoſe Leaves all Colours yield,</l>
+                  <l>And opening, is with ſweeteſt Odours fill'd.</l>
+                  <l>As lofty Pines o'retop the lowly Reed,</l>
+                  <l>So, did her graceful Height, all Nymphs exceed,</l>
+                  <l>To which excelling Height, ſhe bore a Mind</l>
+                  <l>Humble, as Oſiers bending to the Wind.</l>
+                  <pb n="6" facs="tcp:65657:5"/>
+                  <!-- PDF PAGE 26 -->
+                  <l>Thus excellent ſhe was —</l>
+                  <l>Ah wretched Fate! She was, but is no more.</l>
+                  <l>Help me ye Hills, and Valleys, to deplore.</l>
+                  <l>
+                     <hi>I mourn</hi> PASTORA <hi>dead, let</hi> ALBION <hi>mourn,</hi>
+                  </l>
+                  <l>
+                     <hi>And Sable Clouds her Chalkie Cliffs adorn.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>From that bleſt Earth, on which her Body lies,</l>
+                  <l>May blooming Flow'rs, with fragrant Sweets ariſe:</l>
+                  <l>Let <hi>Myrrha</hi> weeping Aromatick Gum,</l>
+                  <l>And ever-living Lawrel ſhade her Tomb.</l>
+                  <l>Thither, let all th' induſtrious Bees repair,</l>
+                  <l>Unlade their Thighs, and leave their Hony there;</l>
+                  <l>Thither, let <hi>Fairies</hi> with their Train reſort,</l>
+                  <l>Neglect their Revels, and their midnight ſport,</l>
+                  <l>There, in unuſual wailings waſte the Night,</l>
+                  <l>And watch her, by the fiery glow-worms light.</l>
+               </lg>
+               <lg>
+                  <l>There, may no diſmal Yew, nor Cypreſs grow,</l>
+                  <l>Nor Holly buſh, nor bitter Elders bow;</l>
+                  <l>Let each unlucky Bird, far build his Neſt,</l>
+                  <l>And diſtant Dens receive its howling Beaſt;</l>
+                  <l>Let Wolves be gone, and Ravens put to flight,</l>
+                  <l>With hooting Owls, and Batts that hate the light.</l>
+               </lg>
+               <lg>
+                  <l>But let the ſighing Doves, their Sorrows bring,</l>
+                  <l>And Nightingales in ſweet Complainings Sing;</l>
+                  <pb n="7" facs="tcp:65657:5"/>
+                  <!-- PDF PAGE 26 -->
+                  <l>Let Swans from their forſaken Rivers fly,</l>
+                  <l>And Sick'ning at her Tomb, make haſte to dye,</l>
+                  <l>That they may help to Sing her Elegy.</l>
+                  <l>Let <hi>Echo</hi> too, in Mimick Moan deplore,</l>
+                  <l>And cry with me, <hi>PASTORA</hi> is no more!</l>
+                  <l>
+                     <hi>I mourn</hi> PASTORA <hi>dead, let</hi> ALBION <hi>mourn,</hi>
+                  </l>
+                  <l>
+                     <hi>And Sable Clouds her Chalkie Cliffs adorn.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And ſee, the Heav'ns to weep in dew prepare,</l>
+                  <l>And heavy Miſts obſcure the burd'ned Air;</l>
+                  <l>A ſuddain damp, o're all the Plain is ſpread,</l>
+                  <l>Each Lilly folds its Leaves, and hangs its Head.</l>
+                  <l>On ev'ry Tree the Bloſſoms turn to Tears,</l>
+                  <l>And ev'ry Bow, a weeping Moiſture bears.</l>
+                  <l>Their Wings, the Feather'd Airy People droop,</l>
+                  <l>And Flocks beneath their dewy Fleeces ſtoop.</l>
+               </lg>
+               <lg>
+                  <l>The Rocks are cleft; and new deſcending Rills,</l>
+                  <l>Furrow the Brows of all th' impending Hills.</l>
+                  <l>The water Gods, to Flouds their Riv'lets turn,</l>
+                  <l>And each with ſtreaming Eyes, ſupplies his wanting Urn.</l>
+               </lg>
+               <lg>
+                  <l>The <hi>Fawns</hi> forſake the Woods, the <hi>Nymphs</hi> the Grove,</l>
+                  <l>And round the Plain, in ſad Diſtractions rove;</l>
+                  <l>In prickly Brakes, their Tender Limbs they tear,</l>
+                  <l>And leave on Thorns, their Locks of Golden Hair.</l>
+               </lg>
+               <pb n="8" facs="tcp:65657:6"/>
+               <!-- PDF PAGE 27 -->
+               <lg>
+                  <l>With their ſharp Nails, themſelves the <hi>Satyrs</hi> wound,</l>
+                  <l>And tug their ſhaggy Beards, and bite with grief the ground.</l>
+               </lg>
+               <lg>
+                  <l>Lo, <hi>Pan</hi> himſelf, beneath a blaſted Oak</l>
+                  <l>Dejected lies, his Pipe in pieces broke.</l>
+                  <l>See <hi>Pales</hi> weeping too, in wild deſpair,</l>
+                  <l>And to the piercing Winds her Boſome bare.</l>
+               </lg>
+               <lg>
+                  <l>And ſee yond fading Myrtle, where appears</l>
+                  <l>The Queen of Love, all bath'd in flowing Tears,</l>
+                  <l>See how ſhe wrings her Hands, and beats her Breaſt;</l>
+                  <l>And tears her uſeleſs <hi>Girdle</hi> from her waſte:</l>
+                  <l>Hear the ſad Murmurs, of her ſighing Doves,</l>
+                  <l>For Grief they ſigh, forgetful of their Loves.</l>
+               </lg>
+               <lg>
+                  <l>Lo, <hi>Love</hi> himſelf, with heavy Woes oppreſt!</l>
+                  <l>See, how his Sorrows ſwell his tender Breaſt;</l>
+                  <l>His Bow he breaks, and wide his Arrows flings,</l>
+                  <l>And folds his little Arms, and hangs his drooping Wings;</l>
+                  <l>Then, lays his Limbs upon the dying Graſs,</l>
+                  <l>And all with Tears, bedews his Beauteous Face,</l>
+                  <l>With Tears, which from his folded Lids ariſe,</l>
+                  <l>And even <hi>Love</hi> himſelf, has weeping Eyes.</l>
+                  <l>All Nature Mourns; the Flouds and Rocks deplore,</l>
+                  <l>And cry with me, <hi>PASTORA</hi> is no more!</l>
+                  <pb n="9" facs="tcp:65657:6"/>
+                  <!-- PDF PAGE 27 -->
+                  <l>
+                     <hi>I mourn</hi> PASTORA <hi>dead, let</hi> ALBION <hi>mourn,</hi>
+                  </l>
+                  <l>
+                     <hi>And Sable Clouds her Chalkie Cliffs adorn.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The Rocks can Melt, and Air in Miſts can Mourn,</l>
+                  <l>And Flouds can weep, and Winds to Sighs can turn;</l>
+                  <l>The Birds, in Songs their Sorrows can diſcloſe,</l>
+                  <l>And Nymphs and Swains, in Words can tell their Woes.</l>
+                  <l>But oh! behold that deep and wild Deſpair,</l>
+                  <l>Which neither Winds can ſhow, nor Flouds, nor Air.</l>
+               </lg>
+               <lg>
+                  <l>See the Great <hi>Shepherd,</hi> Chief of all the Swains,</l>
+                  <l>Lord of theſe Woods, and wide extended Plains,</l>
+                  <l>Stretch'd on the Ground, and cloſe to Earth his Face,</l>
+                  <l>Scalding with Tears, th' already faded Graſs;</l>
+                  <l>To the cold Clay, he joyns his throbbing Breaſt,</l>
+                  <l>No more, within <hi>PASTORA</hi>'s Arms to reſt!</l>
+                  <l>No more! For thoſe once ſoft and circling Arms,</l>
+                  <l>Themſelves are Clay, and cold are all her Charms.</l>
+                  <l>Cold are thoſe Lips, which he no more muſt Kiſs,</l>
+                  <l>And cold that Boſome, once all downy Bliſs;</l>
+                  <l>On whoſe ſoft Pillows, lull'd in ſweet Delights,</l>
+                  <l>He us'd in Balmy Sleep, to loſe the Nights.</l>
+               </lg>
+               <lg>
+                  <l>Ah! Where is all that Love and Fondneſs fled?</l>
+                  <l>Ah! Where is all that Tender Sweetneſs laid?</l>
+                  <pb n="10" facs="tcp:65657:7"/>
+                  <!-- PDF PAGE 28 -->
+                  <l>To Duſt muſt all that Heav'n of Beauty come!</l>
+                  <l>And muſt <hi>PASTORA</hi> moulder in the Tomb!</l>
+                  <l>Ah Death! more fierce, and unrelenting far,</l>
+                  <l>Than wildeſt Wolves or ſavage Tygers are;</l>
+                  <l>With Lambs and Sheep, their Hungers are appeas'd,</l>
+                  <l>But ravenous Death, the Shepherdeſs has ſeiz'd.</l>
+                  <l>
+                     <hi>I mourn</hi> PASTORA <hi>dead, let</hi> ALBION <hi>mourn,</hi>
+                  </l>
+                  <l>
+                     <hi>And Sable Clouds her Chalkie Cliffs adorn.</hi>
+                  </l>
+               </lg>
+               <q>
+                  <l>But ſee, <hi>Menalcas,</hi> where a ſudden Light,</l>
+                  <l>With Wonder ſtops my Song, and ſtrikes my Sight!</l>
+                  <l>And where <hi>PASTORA</hi> lies, it ſpreads around,</l>
+                  <l>Shewing all Radiant Bright, the Sacred Ground.</l>
+                  <l>While from her Tomb, behold a Flame aſcends</l>
+                  <l>Of whiteſt Fire, whoſe Flight to Heav'n extends!</l>
+                  <l>On flaky Wings it mounts, and quick as Sight</l>
+                  <l>Cuts thro' the yielding Air, with Rays of Light;</l>
+                  <l>Till the Blue Firmament at laſt it gains,</l>
+                  <l>And fixing there, a Glorious Star remains:</l>
+               </q>
+               <l>
+                  <hi>Faireſt it ſeems of all that light the Skies,</hi>
+               </l>
+               <l>
+                  <hi>As once on Earth were ſeen</hi> PASTORA<hi>'s Eyes.</hi>
+               </l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:65657:7"/>
+            <!-- PDF PAGE 28 -->
+         </div>
+      </body>
+   </text>
+</TEI>
